@@ -49,4 +49,5 @@
 | `Markdown Extension Pack`    | Extension pack with some of the most popular Markdown extensions
 | `TSLint`                     | Linter for TypeScript
 | `Move TS`                    | Move TypeScript files and update relative imports
+| `vscode-pdf`                 | Display PDF files in Visual Studio Code
 
