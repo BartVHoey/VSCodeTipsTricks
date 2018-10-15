@@ -1,1 +1,3 @@
 # VisualStudioCodeTipsAndTricks
+
+Tips and Tricks
