@@ -33,6 +33,8 @@
 | `CTRL+K+D`                   | Format Document
 | `CTRL+.`                     | Quick Fix
 | `CTRL+R,CTRL+R`              | Rename  
+| `SHIFT+ALT+ENTER`            | Enter Zen Mode  
+| `ESC+ESC`                    | Exit Zen Mode
 
 ## My Favourite Visual Studio Code Extensions
 
