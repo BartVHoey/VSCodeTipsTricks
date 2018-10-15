@@ -8,6 +8,7 @@
 |------------------------------|------------------------------------------------|
 | `CTRL+SHIFT+P`               | Command Palette
 | `CTRL+C`                     | Copy (no need to select line)
+| `CTRL+K+W`                   | Close All Documents
 | `CTRL+X`                     | Cut (no need to select line)
 | `CTRL+ARROW LEFT/RIGHT`      | Move to Next Word
 | `ALT+SHIFT+ARROW UP/DOWN`    | Moves (selected) line/lines up or down
