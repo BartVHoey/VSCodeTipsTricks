@@ -1,4 +1,4 @@
-# VisualStudioCodeTipsAndTricks
+# Visual Studio Code Tips And Tricks
 
 ## My Favourite Visual Studio Code Shortcut Keys
 
@@ -32,4 +32,21 @@
 | `CTRL+K+D`                   | Format Document
 | `CTRL+.`                     | Quick Fix
 | `CTRL+R,CTRL+R`              | Rename  
+
+## My Favourite Visual Studio Code Extensions
+
+| Extension                    | Description                                    |
+|------------------------------|------------------------------------------------|
+| `Resharper 9 Keybindings`    | Port of Resharper 9 Keybindings
+| `Visual Studio Keymap`       | Ports popular Visual Studio keyboard shortcuts to Visual Studio Code
+| `Bracket Pair Colorizer`     | Gives the Corresponding bracket the same color
+| `html tag wrapper`           | Wrap selected html tags by pressing CTRL+i
+| `Auto Rename Tag`            | Renames the corresponding html tag
+| `Auto Import`                | Provides code actions and code completion for all available Typescript imports
+| `Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets`                | Visual studio code plugin containing Bootstrap 4, Font awesome 4 & Font Awesome 5 Free & Pro snippets
+| `Auto Rename Tag`            | Renames the corresponding html tag
+| `Lorem Ipsum`                | Generates and inserts lorem ipsum text into Visual Studio Code
+| `Markdown Extension Pack`    | Extension pack with some of the most popular Markdown extensions
+| `TSLint`                     | Linter for TypeScript
+| `Move TS`                    | Move TypeScript files and update relative imports
 
