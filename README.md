@@ -21,7 +21,9 @@
 | `CTRL+-`                     | Navigate Back
 | `CTRL+W`                     | Selection Grow
 | `CTRL+SHIFT+W`               | Selection Shrink
-| `CTRL+7` OR `CTRL+K+C`       | Comment Line (toggle)
+| `CTRL+7`                     | Comment Line (toggle)
+| `CTRL+K+C`                   | Comment Line
+| `CTRL+K+C`                   | Uncomment Line 
 | `CTRL+backtick`              | Show/Hide Terminal (CTRL+`)
 | `CTRL+SHIFT+backtick`        | Open New Terminal (CTRL+`)
 | `CTRL+F`                     | Search in File
