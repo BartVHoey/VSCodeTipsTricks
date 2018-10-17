@@ -35,6 +35,7 @@
 | `CTRL+SHIFT+TAB`             | Toggle backwards through Tabs
 | `CTRL+K+D`                   | Format Document
 | `CTRL+.`                     | Quick Fix
+| `ALT+F12`                    | Find All References
 | `CTRL+R,CTRL+R`              | Rename  
 | `SHIFT+ALT+ENTER`            | Enter Zen Mode
 | `ESC+ESC`                    | Exit Zen Mode
