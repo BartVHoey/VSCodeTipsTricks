@@ -59,4 +59,3 @@
 | `TSLint`                     | Linter for TypeScript
 | `Move TS`                    | Move TypeScript files and update relative imports
 | `vscode-pdf`                 | Display PDF files in Visual Studio Code
-
