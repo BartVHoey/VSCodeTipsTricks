@@ -41,6 +41,7 @@
 | `ESC+ESC`                    | Exit Zen Mode
 | `SHIFT+ALT+(arrow key)`      | Column (box) selection
 | `SHIFT+ALT+(drag mouse)`     | Column (box) selection
+| `ALT+Z`                      | Toggle Word Wrap
 
 ## My Favourite Visual Studio Code Extensions
 
