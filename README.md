@@ -42,6 +42,7 @@
 | `SHIFT+ALT+(arrow key)`      | Column (box) selection
 | `SHIFT+ALT+(drag mouse)`     | Column (box) selection
 | `ALT+Z`                      | Toggle Word Wrap
+| `CTRL+SHIFT+O`               | Shows list of methods, properties, fields of active file
 
 ## My Favourite Visual Studio Code Extensions
 
