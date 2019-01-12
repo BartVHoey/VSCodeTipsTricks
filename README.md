@@ -23,8 +23,8 @@
 | `CTRL+W`                                   | Selection Grow
 | `CTRL+SHIFT+W`                             | Selection Shrink
 | `CTRL+7`                                   | Comment Line (toggle)
-| `CTRL+K+C`                                 | Comment Line
-| `CTRL+K+C`                                 | Uncomment Line
+| `CTRL+K+C`  or `CTRL+/`                    | Comment Line
+| `CTRL+K+C`  or `CTRL+/`                    | Uncomment Line
 | `CTRL+backtick`                            | Show/Hide Terminal (CTRL+`)
 | `CTRL+SHIFT+backtick`                      | Open New Terminal (CTRL+`)
 | `CTRL+F`                                   | Search in File
