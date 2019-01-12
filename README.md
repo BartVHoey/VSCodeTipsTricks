@@ -45,6 +45,7 @@
 | `CTRL+SHIFT+O`                             | Shows list of methods, properties, fields of active fi
 | `CTRl+K+S`                                 | Shows VS Code shortcuts
 | `CTRl+SHIFT+P -> Wrap with abbreviation`   | Surround Text with Tag ... Select Text First and start Typing Tag
+| `CTRl+SHIFT+.`                             | Show methods, properties, fields of a TypeScript class
 
 ## My Favourite Visual Studio Code Extensions
 
