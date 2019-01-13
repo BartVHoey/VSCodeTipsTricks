@@ -17,8 +17,8 @@
 | `CTRL+L`                                   | Delete Line (no need to select line)
 | `CTRL+ALT+L`                               | Reveal Active File in Explorer
 | `CTRL+SHIFT+E`                             | Show Explorer (Toggle Focus)
-| `CTRL+P`                                   | Quick Open
-| `CTRL+M`                                   | GoTo Type Declaration
+| `CTRL+P` or `CTRL+,                        | Go to File
+| `CTRL+M`                                   | Go to Type Declaration
 | `CTRL+-`                                   | Navigate Back
 | `CTRL+W`                                   | Selection Grow
 | `CTRL+SHIFT+W`                             | Selection Shrink
@@ -45,6 +45,7 @@
 | `CTRL+SHIFT+O`                             | Shows list of methods, properties, fields of active fi
 | `CTRl+K+S`                                 | Shows VS Code shortcuts
 | `CTRl+SHIFT+P -> Wrap with abbreviation`   | Surround Text with Tag ... Select Text First and start Typing Tag
+| `CTRl+SHIFT+P -> Balance (outward)`        | Select a whole HTML tag
 | `CTRl+SHIFT+.`                             | Show methods, properties, fields of a TypeScript class
 
 ## My Favourite Visual Studio Code Extensions
