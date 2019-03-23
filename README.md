@@ -37,6 +37,7 @@
 | `CTRL+.`                                   | Quick Fix
 | `ALT+F12`                                  | Find All References
 | `CTRL+R,CTRL+R`                            | Rename  
+| `SHIFT+ALT+F12`                            | Find all References
 | `SHIFT+ALT+ENTER`                          | Enter Zen Mode
 | `ESC+ESC`                                  | Exit Zen Mode
 | `SHIFT+ALT+(arrow key)`                    | Column (box) selection
