@@ -7,26 +7,30 @@
 | Shortcut Key                               | Action                                         |
 |--------------------------------------------|------------------------------------------------|
 | `CTRL+SHIFT+P`                             | Command Palette
+| `CTRL+P`                                   | Find a File
 | `CTRL+C`                                   | Copy (no need to select line)
 | `CTRL+K+W`                                 | Close All Documents
 | `CTRL+X`                                   | Cut (no need to select line)
+| `CTRL+\`                                   | Split Editor
 | `CTRL+ARROW LEFT/RIGHT`                    | Move to Next Word
 | `ALT+SHIFT+ARROW UP/DOWN`                  | Moves (selected) line/lines up or down
 | `ALT+ARROW UP/DOWN`                        | Moves (selected) line/lines up or down
 | `CTRL+D`                                   | Duplicate Line (no need to select line)
 | `CTRL+L`                                   | Delete Line (no need to select line)
 | `CTRL+ALT+L`                               | Reveal Active File in Explorer
-| `CTRL+SHIFT+E`                             | Show Explorer (Toggle Focus)
-| `CTRL+P` or `CTRL+,                        | Go to File
+| `CTRL+SHIFT+E`                             | Focus Explorer
+| `CTRL+SHIFT+E`                             | Focus Debugger
+| `CTRL+P` or `CTRL+,`                       | Go to File
+| `CTRL+J`                                   | Show/Hide Bottom Panel
 | `CTRL+M`                                   | Go to Type Declaration
+| `CTRL+-`                                   | Navigate Back
 | `CTRL+-`                                   | Navigate Back
 | `CTRL+W`                                   | Selection Grow
 | `CTRL+SHIFT+W`                             | Selection Shrink
 | `CTRL+7`                                   | Comment Line (toggle)
-| `CTRL+K+C`  or `CTRL+/`                    | Comment Line
-| `CTRL+K+C`  or `CTRL+/`                    | Uncomment Line
-| `CTRL+backtick`                            | Show/Hide Terminal (CTRL+`)
-| `CTRL+SHIFT+backtick`                      | Open New Terminal (CTRL+`)
+| `CTRL+K+C` or `CTRL+/`                     | Comment/Uncomment Line
+| `CTRL+backtick`                            | Show/Hide Terminal
+| `CTRL+SHIFT+backtick`                      | Open New Terminal
 | `CTRL+F`                                   | Search in File
 | `CTRL+H`                                   | Search and Replace in File
 | `CTRL+SHIFT+F`                             | Search in All Files
