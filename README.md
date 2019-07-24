@@ -52,6 +52,7 @@
 | `CTRl+SHIFT+P -> Wrap with abbreviation`   | Surround Text with Tag ... Select Text First and start Typing Tag
 | `CTRl+SHIFT+P -> Balance (outward)`        | Select a whole HTML tag
 | `CTRl+SHIFT+.`                             | Show methods, properties, fields of a TypeScript class
+| `CTRl+b, CTRL+b`                           | Copy current branch name [install extension 'Copy name of current git branch' ]
 
 ## My Favourite Visual Studio Code Extensions
 
@@ -72,3 +73,4 @@
 | `Move TS`                                  | Move TypeScript files and update relative imports
 | `vscode-pdf`                               | Display PDF files in Visual Studio Code
 | `GitHub Pull Requests`                     | Manage Your Pull Requests for a Repository from VSCode
+| `Copy name of current git branch`          | Copy name of current git branch [do not forget to assign shortcut key code]
