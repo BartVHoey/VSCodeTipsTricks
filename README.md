@@ -7,7 +7,8 @@
 | Shortcut Key                               | Action                                         |
 |--------------------------------------------|------------------------------------------------|
 | `CTRL+SHIFT+P`                             | Command Palette
-| `CTRL+P`                                   | Find a File
+| `CTRL+SHIFT+P`                             | Command Palette
+| `CTRL+SHIFT+C`                             | Opens External Terminal in Project Root
 | `CTRL+C`                                   | Copy (no need to select line)
 | `CTRL+W`                                   | Close Active Document
 | `CTRL+K+W`                                 | Close All Documents
@@ -69,7 +70,6 @@
 | `Auto Rename Tag`                          | Renames the corresponding html tag
 | `Auto Import`                              | Provides code actions and code completion for all available Typescript imports
 | `Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets`
-| Visual studio code plugin containing Bootstrap 4, Font awesome 4 & Font Awesome 5 Free & Pro snippets
 | `Auto Rename Tag`                          | Renames the corresponding html tag
 | `Lorem Ipsum`                              | Generates and inserts lorem ipsum text into Visual Studio Code
 | `Markdown Extension Pack`                  | Extension pack with some of the most popular Markdown extensions
