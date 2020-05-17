@@ -55,8 +55,8 @@
 | `CTRl+SHIFT+P -> Balance (outward)`        | Select a whole HTML tag
 | `CTRl+SHIFT+.`                             | Show methods, properties, fields of a TypeScript class
 | `CTRl+b, CTRL+b`                           | Copy current branch name [install extension 'Copy name of current git branch' ]
-| `CTRl+b, CTRL+b`                           | Copy current branch name [install extension 'Copy name of current git branch' ]
 | `CTRl+SHIFT+G`                             | Open Source Control Panel
+| `CTRl+ALT+C`                               | Create New Git Branch (own Keyboard short cut)
 
 
 ## My Favourite Visual Studio Code Extensions
