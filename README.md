@@ -57,6 +57,7 @@
 | `CTRl+b, CTRL+b`                           | Copy current branch name [install extension 'Copy name of current git branch' ]
 | `CTRl+SHIFT+G`                             | Open Source Control Panel
 | `CTRl+ALT+C`                               | Create New Git Branch (own Keyboard short cut)
+| `CTRl+SHIFT+T`                             | Surround with ... (Surround Extension - Mehmet Yatkı)
 
 
 ## My Favourite Visual Studio Code Extensions
@@ -78,3 +79,4 @@
 | `vscode-pdf`                               | Display PDF files in Visual Studio Code
 | `GitHub Pull Requests`                     | Manage Your Pull Requests for a Repository from VSCode
 | `Copy name of current git branch`          | Copy name of current git branch [do not forget to assign shortcut key code]
+| `Surround`                                 | Surround with ... (Surround - Mehmet Yatkı)
