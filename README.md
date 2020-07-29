@@ -80,3 +80,6 @@
 | `GitHub Pull Requests`                     | Manage Your Pull Requests for a Repository from VSCode
 | `Copy name of current git branch`          | Copy name of current git branch [do not forget to assign shortcut key code]
 | `Surround`                                 | Surround with ... (Surround Extension - Mehmet Yatkı)
+| `ASP.NET Core Switcher`                    | Switch from Code-behind to/from razor files
+| `Markdown Table Sort`                      | Sorts a Markdown Table
+| `Project Manager`                          | Switch projects easily
