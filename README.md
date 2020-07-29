@@ -1,6 +1,6 @@
 # Visual Studio Code Tips And Tricks
 
-## My Favourite Visual Studio Code Shortcut Keys
+## My Favorite Visual Studio Code Shortcut Keys
 
 (with Resharper 9 Keybindings and Visual Studio Keymap extensions )
 
@@ -58,9 +58,9 @@
 | `CTRl+SHIFT+G`                             | Open Source Control Panel
 | `CTRl+ALT+C`                               | Create New Git Branch (own Keyboard short cut)
 | `CTRl+SHIFT+T`                             | Surround with ... (Surround Extension - Mehmet Yatkı)
+| `ALT+O`                                    | Switch from Code-behind to/from razor files (ASP.NET Core Switcher Extension - adrianwilczynski)
 
-
-## My Favourite Visual Studio Code Extensions
+## My Favorite Visual Studio Code Extensions
 
 | Extension                                  | Description                                    |
 |--------------------------------------------|------------------------------------------------|
