@@ -72,11 +72,8 @@
 | `Auto Close Tag`                           | Automatically add HTML/XML close tag, same as Visual Studio IDE does
 | `Auto Rename Tag`                          | Renames the corresponding html tag
 | `Auto Import`                              | Provides code actions and code completion for all available Typescript imports
-| `Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets`
 | `Lorem Ipsum`                              | Generates and inserts lorem ipsum text into Visual Studio Code
 | `Markdown Extension Pack`                  | Extension pack with some of the most popular Markdown extensions
-| `TSLint`                                   | Linter for TypeScript
-| `Move TS`                                  | Move TypeScript files and update relative imports
 | `vscode-pdf`                               | Display PDF files in Visual Studio Code
 | `GitHub Pull Requests`                     | Manage Your Pull Requests for a Repository from VSCode
 | `Copy name of current git branch`          | Copy name of current git branch [do not forget to assign shortcut key code]
@@ -89,3 +86,5 @@
 | `VS Sharper for C#`                        | VS Sharper VS Code Extension for C#
 | `Sort JSON Objects`                        | Sorts the keys within JSON objects
 | `Razor+`                                   | Improved Razor syntax colorization for VS Code
+| `.NET Core Test Explorer`                  | Text Explorer for .NET Core (MSTest, xUnit, NUnit)
+| `vscode-icons`                             | Icons for Visual Studio Code
