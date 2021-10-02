@@ -6,6 +6,7 @@
 
 | Shortcut Key                               | Action                                         |
 |--------------------------------------------|------------------------------------------------|
+| `CTRL+K,CTRL+S`                            | Keyboard Shortcuts
 | `CTRL+SHIFT+P`                             | Command Palette
 | `CTRL+SHIFT+C`                             | Opens External Terminal in Project Root
 | `CTRL+C`                                   | Copy (no need to select line)
@@ -26,6 +27,7 @@
 | `CTRL+M`                                   | Go to Type Declaration
 | `CTRL+-`                                   | Navigate Back
 | `CTRL+W`                                   | Selection Grow
+| `CTRL+S`                                   | Pin tab/Unpin tab
 | `CTRL+SHIFT+W`                             | Selection Shrink
 | `CTRL+7`                                   | Comment Line (toggle)
 | `CTRL+K+C` or `CTRL+/`                     | Comment/Uncomment Line
@@ -86,3 +88,30 @@
 | `Razor+`                                   | Improved Razor syntax colorization for VS Code
 | `.NET Core Test Explorer`                  | Text Explorer for .NET Core (MSTest, xUnit, NUnit)
 | `vscode-icons`                             | Icons for Visual Studio Code
+| `TabNine`                                  | Code Faster with the All-Language AI Assistant for Code Completion
+
+## Settings
+
+### Change Shortcut to Pin/Unpin Tabs in VSCode
+
+```bash
+    // File -> Preferences -> Keyboard Shortcuts (CTRL+K, CTRL+S )
+    search for workbench.action.pinEditor : assign shortcut key (CTRL+S)
+    search for workbench.action.unpinEditor : assign shortcut key (CTRL+S)
+```
+
+### Chnage Shortcut to Toggle Explorer in VSCode
+
+```bash
+    // File -> Preferences -> Keyboard Shortcuts (CTRL+K, CTRL+S )
+    search for workbench.action.toggleSidebarVisibility : assign shortcut key (CTRL+SHIFT+E)
+```
+
+## VS Sharper for C# (Capital letter generating interface)
+
+```bash
+    // Navigate to folder below on WINDOWS machine
+    // C:\Users\<YourUserName>\.vscode\extensions\eservice-online.vs-sharper-0.2.0\templates
+    // Edit file csharpInterface.vstpl -> Update Interface to interface
+
+```
