@@ -107,7 +107,7 @@
     search for workbench.action.toggleSidebarVisibility : assign shortcut key (CTRL+SHIFT+E)
 ```
 
-## VS Sharper for C# (Capital letter generating interface)
+## VS Sharper for C# (Capital letter generating interface issue)
 
 ```bash
     // Navigate to folder below on WINDOWS machine
