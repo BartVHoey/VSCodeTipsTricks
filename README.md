@@ -100,7 +100,7 @@
     search for workbench.action.unpinEditor : assign shortcut key (CTRL+S)
 ```
 
-### Chnage Shortcut to Toggle Explorer in VSCode
+### Change Shortcut to Toggle Explorer in VSCode
 
 ```bash
     // File -> Preferences -> Keyboard Shortcuts (CTRL+K, CTRL+S )
