@@ -121,3 +121,9 @@
 ```bash
     // File -> Preferences -> Search for debug.toolBarLocation -> Select **docked** in the dropdown list
 ```
+
+## Hide Code Preview Bar
+
+```bash
+    // File -> Preferences -> Search for Minimap -> Set Enabled to false
+```
