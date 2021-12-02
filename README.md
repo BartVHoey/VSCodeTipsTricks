@@ -115,3 +115,9 @@
     // Edit file csharpInterface.vstpl -> Update Interface to interface
 
 ```
+
+## Dock the Debug Toolbar
+
+```bash
+    // File -> Preferences -> Search for debug.toolBarLocation -> Select **docked** in the dropdown list
+```
